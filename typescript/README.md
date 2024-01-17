@@ -1,4 +1,4 @@
-# Fizz_buzz - [Fizzbuzz](https://en.wikipedia.org/wiki/Fizz_buzz) game written in go
+# Fizz_buzz - [Fizzbuzz](https://en.wikipedia.org/wiki/Fizz_buzz) game written in TypeScript
 
 ## Table of Contents
 
@@ -9,7 +9,7 @@
 5. [Exit status](#Exit_status)
 6. [Authors](#Authors)
 
-## Description <a name= "Description"></a>
+## Description: <a name= "Description"></a>
 
 Based on a game to teach division to children. `Fizz` is outputted on any integers divisible by 3 and `Buzz`
 if divisible by 5. Any integers that are divisible by both with get `Fizz Buzz`. The game can be expanded to
@@ -28,7 +28,7 @@ fizzbuzz MIN MAX
 
 ## Build <a name="Build"></a>
 
-`go build fizzbuzz.go`
+`TODO`
 
 ## Examples: <a name="Examples"></a>
 
