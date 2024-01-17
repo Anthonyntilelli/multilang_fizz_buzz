@@ -2,13 +2,15 @@
   "name": "fizzbuzz",
   "version": "1.0.0",
   "description": "FizzBuzz in typeScript",
-  "main": "app.js",
+  "main": "fizzbuzz.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc fizzbuzz.ts && node fizzbuzz.js"
   },
   "author": "Anthony Tilelli",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^20.11.4",
     "typescript": "^5.3.3"
   }
 }

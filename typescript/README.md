@@ -4,10 +4,9 @@
 
 1. [Description](#Description)
 2. [Parameters](#Parameters)
-3. [Build](#Build)
-4. [Examples](#Examples)
-5. [Exit status](#Exit_status)
-6. [Authors](#Authors)
+3. [Examples](#Examples)
+4. [Exit status](#Exit_status)
+5. [Authors](#Authors)
 
 ## Description: <a name= "Description"></a>
 
@@ -17,24 +16,20 @@ include other numbers and string responses. Non-integer inputs will cause progra
 
 ## Parameters: <a name="Parameters"></a>
 
-fizzbuzz INT
+npm start INT
 
     INT - integer for fizz buzz to check
 
-fizzbuzz MIN MAX
+npm start MIN MAX
 
     MIN - integer to begin fizz buzz range on
     MAX - last integer to end the range on
 
-## Build <a name="Build"></a>
-
-`TODO`
-
 ## Examples: <a name="Examples"></a>
 
-`fizzbuzz 10`
+`npm start 10`
 
-`fizzbuzz 10 25`
+`npm start 10 25`
 
 ## Exit status: <a name="Exit_status"></a>
 
